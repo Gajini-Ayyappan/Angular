@@ -1,6 +1,6 @@
 1.git clone repositry url
 2.git pull - current update from git
 3.git status - compare both local and git files 
-4.git add file 
-5.git push
-6.git commit -m "message"
+4.git add file
+5.git commit -m "message"
+6.git push
